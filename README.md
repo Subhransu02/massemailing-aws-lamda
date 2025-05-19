@@ -1,4 +1,4 @@
-# massemailing-aws-lamda
+# Massemailing-AWS-Lamda
 A mass emailing system allows businesses to reach out to customers efficiently, and building one using Amazon Web Services (AWS) can be both scalable and cost-effective. Following are the steps setting up a mass emailing system using AWS Lambda, Simple Email Service (SES), and S3.
 
 Step 1: Create an S3 Bucket
